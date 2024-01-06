@@ -10,3 +10,4 @@ int main(int argc, char *argv[]) {
     printf("%d",sum);
     return 0;
 }
+
